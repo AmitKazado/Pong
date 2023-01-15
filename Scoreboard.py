@@ -1,6 +1,5 @@
 from turtle import Turtle
 
-# SCORE_POSITIONS = [(-100, 260), (100, 260)]
 ALIGNMENT = "center"
 FONT = ("Arial", 16, "bold")
 
