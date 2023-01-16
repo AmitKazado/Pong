@@ -5,7 +5,7 @@ Hit the Ball with your Paddle before it reaches your side's wall.
 
 Pong is a two players game, But it can be played solo if you control both Paddles and wish to have some practice.
 
-## Game Rules:
+## Game Rules & Mechanics:
 While a player fails to hit the ball, he awards the other player a point.
 The Ball's speed increases upon each hit of a Paddle, which makes the game more challenging and exciting.
 The Ball bounces of the Top & Bottom walls.
