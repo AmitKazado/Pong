@@ -2,7 +2,7 @@
 
 ## Game Objective:
 Hit the Ball with your Paddle before it reaches your side's wall.
-A two players game, or one if you wish to play against yourself.
+Pong is a two players game, But it can be played solo if you control both Paddles and wish to have some practice.
 
 ## Game Rules:
 While a player fails to hit the ball, he awards the other player a point.
